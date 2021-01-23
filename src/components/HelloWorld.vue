@@ -1,5 +1,6 @@
 <template>
   <h1>{{ msg }}</h1>
+  <h2>HHHH Nice</h2>
   <p>
     <a href="https://vitejs.dev/guide/features.html" target="_blank">Vite Documentation</a>
     |
